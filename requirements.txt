@@ -1,0 +1,7 @@
+diffusers==0.20.1
+diffusers==0.11.1
+fastapi==0.103.1
+torch==2.0.1
+torch==2.0.1+cu118
+transformers==4.32.1
+transformers==4.33.2
